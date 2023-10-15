@@ -1,4 +1,4 @@
-# IntroductionToRobotics
+# Introduction to Robotics (2023 - 2024)
 Student: Ioana-Cristina Ursoiu
 Group: 364
 
