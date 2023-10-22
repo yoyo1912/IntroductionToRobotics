@@ -6,6 +6,14 @@ Group: 364
 	
  ->I hope you will enjoy your jorney in understanding my homeworks. I can assure you, my code is not hard to read, it's just misunderstood. 
 
- # My repo pun
+ ### My repo pun
  
  Why do programmers believe 1+1 equals 10? Because they're always in a binary state of mind, while the rest of us insist that 1+1 is just 2-funny!
+
+ ## Homework 2
+ The code and pictures are in Homework/Homework_2.
+ 
+ You can find the README for homework 2 here:
+ https://github.com/yoyo1912/IntroductionToRobotics/blob/main/Homeworks/Homework_2/Homework2.md
+
+ 
