@@ -18,7 +18,7 @@ Design a control system that simulates a 3-floor elevator using the Arduino plat
 – Elevator doors closing and movement (pro tip: split them into 2 different sounds)
 
 ## Setup
-![montaj](https://github.com/yoyo1912/IntroductionToRobotics/assets/57875242/2aa134bb-2705-4ad1-928d-2933455933d8)
+![montaj]([https://github.com/yoyo1912/IntroductionToRobotics/assets/57875242/2aa134bb-2705-4ad1-928d-2933455933d8](https://github.com/yoyo1912/IntroductionToRobotics/blob/main/Homeworks/Homework_3/homework3.jpeg))
 
 ## Project difficulties 
 - Making the led for the state of the elevator blink in the same time with the sound.
