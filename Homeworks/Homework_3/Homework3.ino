@@ -1,3 +1,9 @@
+/*
+Homework 3
+Student: Ioana-Cristina Ursoiu
+Group: 364 (Tuesday 9-12)
+*/
+
 const int floor1LedPin = 5;
 const int floor2LedPin = 4;
 const int floor3LedPin = 3;
