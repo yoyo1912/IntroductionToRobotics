@@ -22,4 +22,10 @@ Group: 364
  You can find the README for homework 3 here:
  https://github.com/yoyo1912/IntroductionToRobotics/blob/main/Homeworks/Homework_3/Homework3.md
 
+ ## Homework 4
+ The code and pictures are in Homework/Homework_4.
+ 
+ You can find the README for homework 4 here:
+ https://github.com/yoyo1912/IntroductionToRobotics/blob/main/Homeworks/Homework_4/Homework4.md
+
  
